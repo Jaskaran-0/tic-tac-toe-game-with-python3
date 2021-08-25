@@ -1,5 +1,5 @@
 # Tic Tac Toe Game with Python3
-Created a Tic Tac Toe game using Python 3
+Created a Tic Tac Toe game using Python 3.
 
 ## Requirements
 
